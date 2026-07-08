@@ -1,0 +1,22 @@
+title: "Elixir ծրագրավորման լեզու"
+description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ"
+lang: hy
+
+url: "https://vontanne.github.io"
+baseurl: "/elixir-hy"
+
+theme: jekyll-theme-cayman
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name.html
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
