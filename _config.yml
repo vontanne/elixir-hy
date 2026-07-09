@@ -20,3 +20,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+readme_index:
+  with_frontmatter: true
