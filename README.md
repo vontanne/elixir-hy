@@ -15,3 +15,4 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 2. [**Elixir միջավայրի ինստալացիան**](./_publications/installation.md)
 3. [**Elixir-ի բազային սինթաքսը**](./_publications/basic_syntax.md)
 4. [**Թվային տիպերը**](./_publications/numeric_types.md)
+5. [**Atom տվյալների տիպը**](./_publications/atoms.md)
