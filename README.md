@@ -14,3 +14,4 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 1. [**Ներածություն**](./_publications/introduction.md)
 2. [**Elixir միջավայրի ինստալացիան**](./_publications/installation.md)
 3. [**Elixir-ի բազային սինթաքսը**](./_publications/basic_syntax.md)
+4. [**Թվային տիպերը**](./_publications/numeric_types.md)
