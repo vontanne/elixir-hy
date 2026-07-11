@@ -1,6 +1,6 @@
 # Code of Conduct
 
-*Այս փաստաթուղթը հասանելի է նաև [հայերեն](./CODE_OF_CONDUCT.hy.md)։*
+*Այս փաստաթուղթը հասանելի է նաև [հայերեն](https://github.com/vontanne/elixir-hy/blob/master/.github/CODE_OF_CONDUCT.hy.md)։*
 
 ## Our Pledge
 

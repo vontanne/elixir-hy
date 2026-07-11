@@ -1,6 +1,6 @@
 # Վարքագծի կանոններ
 
-*Read this document in [English](./CODE_OF_CONDUCT.md).*
+*Read this document in [English](https://github.com/vontanne/elixir-hy/blob/master/.github/CODE_OF_CONDUCT.md).*
 
 ## Մեր խոստումը
 
