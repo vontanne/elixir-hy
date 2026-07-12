@@ -17,3 +17,4 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 4. [**Թվային տիպերը**](./_publications/numeric_types.md)
 5. [**Atom տվյալների տիպը**](./_publications/atoms.md)
 6. [**Bitstring և Binary տվյալների տիպերը**](./_publications/bitstrings_and_binaries.md)
+7. [**List տվյալների տիպը**](./_publications/lists.md)
