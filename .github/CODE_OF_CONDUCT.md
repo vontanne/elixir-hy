@@ -18,7 +18,7 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 ## Reporting
 
-If you experience or witness unacceptable behavior, please report it by [opening an issue](https://github.com/vontanne/elixir-hy/issues/new?title=Code%20of%20Conduct%20report) in this repository. For serious abuse or harassment that you would rather not discuss publicly, you can report the user or content directly to GitHub Support using the built-in **Report abuse** option. All reports will be reviewed and acted on fairly.
+If you experience or witness unacceptable behavior, please report it by [opening an issue](https://github.com/vontanne/elixir-hy/issues/new?template=conduct_report.md) in this repository. For serious abuse or harassment that you would rather not discuss publicly, you can report the user or content directly to GitHub Support using the built-in **Report abuse** option. All reports will be reviewed and acted on fairly.
 
 ---
 
