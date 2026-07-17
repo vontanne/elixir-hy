@@ -19,6 +19,7 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 6. [**Bitstring և Binary տվյալների տիպերը**](./_publications/bitstrings_and_binaries.md)
 7. [**List տվյալների տիպը**](./_publications/lists.md)
 8. [**Map տվյալների տիպը**](./_publications/maps.md)
+9. [**Tuple տվյալների տիպը**](./_publications/tuples.md)
 
 ## License
 
