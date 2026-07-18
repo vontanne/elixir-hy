@@ -7,9 +7,13 @@ lang: hy
 
 ![Martiros Saryan](./assets/martiros_saryan_armenia.jpg)
 
-This repository is a collection of articles, tutorials, lessons, and news about the Elixir programming language, written in Armenian. The goal is to make Elixir concepts, the BEAM/OTP ecosystem, and the Phoenix framework accessible to Armenian-speaking developers, sharing learning resources and practical examples for both beginners and developers coming from other programming languages
+Այս ռեպոզիտորիան Elixir ծրագրավորման լեզվի մասին հայերենով գրված հոդվածների, ուսումնական
+նյութերի և նորությունների հավաքածու է։ Նպատակն է Elixir-ի հասկացությունները,
+BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դարձնել հայախոս ծրագրավորողներին՝
+առաջարկելով ուսումնական ռեսուրսներ և գործնական օրինակներ ինչպես սկսնակների, այնպես էլ
+այլ ծրագրավորման լեզուներից անցում կատարող ծրագրավորողների համար։
 
-## Publications
+## Հրապարակումներ
 
 1. [**Ներածություն**](./_publications/introduction.md)
 2. [**Անհրաժեշտ միջավայրի ինստալացիան**](./_publications/installation.md)
@@ -20,31 +24,27 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 7. [**List տվյալների տիպը**](./_publications/lists.md)
 8. [**Map տվյալների տիպը**](./_publications/maps.md)
 9. [**Tuple տվյալների տիպը**](./_publications/tuples.md)
+10. [**Ամբողջացնում ենք pattern matching-ի մասին մեր ունեցած գիտելիքը**](./_publications/pattern_matching.md)
 
-## License
+## Լիցենզիա
 
-This work, "elixir-hy", by Hovhannes Hovhannisyan, initiated in 2026, is licensed under the
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Այս աշխատանքը՝ «elixir-hy»-ը, որի հեղինակը Հովհաննես Հովհաննիսյանն է և որը սկսվել է
+2026 թվականին, տրամադրվում է
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+լիցենզիայի ներքո։
 
-You are free to:
+Դուք ազատ եք՝
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Տարածել նյութը ցանկացած միջավայրում կամ ձևաչափով**։
+- **Փոփոխել, վերամշակել նյութը և ստեղծել դրա հիման վրա նոր նյութեր՝ ցանկացած նպատակով, այդ թվուն նաև կոմերցիոն**
 
-Under the following terms:
+Հետևյալ պայմաններով՝
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate
-  if changes were made. You must do so in any reasonable manner, but not in any way that suggests
-  the licensor endorses you or your use. Appropriate credit should include a link back to the
-  original repository at <https://github.com/vontanne/elixir-hy>.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your
-  contributions under the same license as the original.
+- **Հեղինակության նշում (Attribution)** — Դուք պետք է պատշաճ կերպով նշեք հեղինակին,
+  տրամադրեք լիցենզիայի հղումը և նշեք՝ արդյոք կատարվել են փոփոխություններ։ Պատշաճ նշումը պետք է ներառի հղում սկզբնական ռեպազիտորիային՝ <https://github.com/vontanne/elixir-hy>։
+- **Համանման տարածում (ShareAlike)** — Եթե վերամշակում կամ ձևափոխում եք նյութը կամ
+  ստեղծում եք դրա հիման վրա, ապա ձեր ներդրումը պետք է տարածեք նույն լիցենզիայով, ինչ
+  բնօրինակը։
 
-No additional restrictions — You may not apply legal terms or technological measures that legally
-restrict others from doing anything the license permits.
-
-**Notices:** You do not have to comply with the license for elements of the material in the public
-domain or where your use is permitted by an applicable exception or limitation. No warranties are
-given. Other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-The full legal text is in the [LICENSE](https://github.com/vontanne/elixir-hy/blob/master/LICENSE) file.
+Լիցենզիայի ամբողջական իրավական տեքստը գտնվում է
+[LICENSE](https://github.com/vontanne/elixir-hy/blob/master/LICENSE) ֆայլում։
