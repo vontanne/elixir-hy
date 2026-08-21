@@ -1,0 +1,55 @@
+# Site metadata
+title: "Elixir ծրագրավորման լեզու"
+tagline: "Հոդվածներ, ուսումնական նյութեր և նորություններ հայերեն"
+description: "Elixir ծրագրավորման լեզվի մասին հայերեն հոդվածներ, ուսումնական նյութեր և նորություններ"
+
+# Language and time zone
+lang: hy
+locale: hy_AM
+timezone: Asia/Yerevan
+
+# Canonical URL
+url: "https://vontanne.github.io"
+baseurl: "/elixir-hy"
+
+# Author and social metadata
+author:
+  name: "Hovhannes Hovhannisyan"
+  url: "https://github.com/vontanne"
+  twitter: vontanne
+
+twitter:
+  username: vontanne
+  card: summary_large_image
+
+# Theme and build validation
+theme: jekyll-theme-cayman
+strict_front_matter: true
+
+# Publications
+collections:
+  publications:
+    output: true
+    permalink: "/publications/:name.html"
+
+# Shared front matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: "/assets/minas_avetisyan.jpg"
+        width: 1495
+        height: 914
+        alt: "A painting by Armenian artist Minas Avetisyan"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-sitemap
+
+# Plugin configuration
+relative_links:
+  collections: true
