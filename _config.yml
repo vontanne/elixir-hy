@@ -59,3 +59,6 @@ plugins:
 # Plugin configuration
 relative_links:
   collections: true
+
+readme_index:
+  with_frontmatter: true

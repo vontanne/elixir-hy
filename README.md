@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Elixir ծրագրավորման լեզու"
+description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
+lang: hy
+---
+
 ![Minas Avetisyan](./assets/minas_avetisyan.jpg)
 
 Այս պահոցը Elixir ծրագրավորման լեզվի մասին հայերենով գրված հոդվածների, ուսումնական
