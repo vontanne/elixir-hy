@@ -1,6 +1,6 @@
 # Site metadata
 title: "Elixir ծրագրավորման լեզու"
-tagline: "Հոդվածներ, ուսումնական նյութեր և նորություններ հայերեն"
+tagline: "Հոդվածներ, ուսումնական նյութեր և նորություններ"
 description: "Elixir ծրագրավորման լեզվի մասին հայերեն հոդվածներ, ուսումնական նյութեր և նորություններ"
 
 # Language and time zone
@@ -42,6 +42,12 @@ defaults:
         width: 1495
         height: 914
         alt: "A painting by Armenian artist Minas Avetisyan"
+
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
 
 # Plugins
 plugins:
