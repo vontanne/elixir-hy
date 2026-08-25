@@ -19,3 +19,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 2. [**Անհրաժեշտ միջավայրի տեղադրումը**](./_publications/installation.md)
 3. [**Բազային սինթաքսը**](./_publications/basic_syntax.md)
 4. [**Թվային տիպերը**](./_publications/numeric_types.md)
+5. [**Atom տվյալների տիպը**](./_publications/atoms.md)
