@@ -25,3 +25,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 8. [**Տեքստի մշակումը և Unicode նորմալացումը**](./_publications/string_processing.md)
 9. [**List տվյալների տիպը**](./_publications/lists.md)
 10. [**Map տվյալների տիպը**](./_publications/maps.md)
+11. [**Tuple տվյալների տիպը**](./_publications/tuples.md)
