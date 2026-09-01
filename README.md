@@ -23,3 +23,5 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 6. [**Bitstring և Binary տվյալների տիպերը**](./_publications/bitstrings_and_binaries.md)
 7. [**Unicode-ի ստեղծման պատմությունը**](./_publications/unicode_and_utf.md)
 8. [**Տեքստի մշակումը և Unicode նորմալացումը**](./_publications/string_processing.md)
+9. [**List տվյալների տիպը**](./_publications/lists.md)
+10. [**Map տվյալների տիպը**](./_publications/maps.md)
