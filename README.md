@@ -27,3 +27,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 10. [**Map տվյալների տիպը**](./_publications/maps.md)
 11. [**Tuple տվյալների տիպը**](./_publications/tuples.md)
 12. [**Pattern matching և ^ օպերատոր**](./_publications/pattern_matching.md)
+13. [**Մոդուլներ և ֆունկցիաներ**](./_publications/modules_and_functions.md)
