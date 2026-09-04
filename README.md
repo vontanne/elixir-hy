@@ -30,3 +30,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 13. [**Մոդուլներ և ֆունկցիաներ**](./_publications/modules_and_functions.md)
 14. [**Անանուն ֆունկցիաներ**](./_publications/anonymous_functions.md)
 15. [**Ֆունկցիաների լրացուցիչ հնարավորությունները**](./_publications/advanced_functions.md)
+16. [**Ծանոթություն Enum մոդուլի հետ**](./_publications/enum_basics.md)
