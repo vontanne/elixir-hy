@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Questions and discussions
+    url: https://github.com/vontanne/elixir-hy/discussions
+    about: Ask questions and participate in community discussions.
+
+  - name: Security vulnerabilities
+    url: https://github.com/vontanne/elixir-hy/security/advisories/new
+    about: Report security vulnerabilities privately.
